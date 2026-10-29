@@ -1,0 +1,24 @@
+{
+  "title": "Halloween Costume Contest",
+  "intro": "Vote for your favorite costumes! For each award, type a person's name or describe their costume.",
+  "questions": [
+    {
+      "id": "best",
+      "text": "Best Costume",
+      "hint": "Who has the best costume overall?",
+      "placeholder": "Name or costume"
+    },
+    {
+      "id": "scariest",
+      "text": "Scariest Costume",
+      "hint": "Whose costume gives you the creeps?",
+      "placeholder": "Name or costume"
+    },
+    {
+      "id": "funniest",
+      "text": "Funniest Costume",
+      "hint": "Whose costume made you laugh the most?",
+      "placeholder": "Name or costume"
+    }
+  ]
+}
